@@ -6,7 +6,7 @@
 Created on 7.30.2017
 
 ## Set Up & Installation:
-* Visit the following link: <https://sigtaba.github.io/doctor-search/>
+* Visit the following link: <https://sigtaba.github.io/doctor-search/> - *CSS Styling is not showing on GH-Pages.
 
 OR you can:
 
@@ -17,7 +17,7 @@ OR you can:
 * enter the command gulp serve
 
 ## Bugs:
-No known bugs
+CSS styling is not showing up on gh-pages
 
 ## Support:
 If you experience any difficulties, feel free to contact any of the developer: Isabella Abatgis (abatgis@gmail.com)
