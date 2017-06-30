@@ -3,7 +3,7 @@
 ## Description:
 #### A website displaying doctors from an API
 
-Created on 6.18.2017
+Created on 7.30.2017
 
 ## Set Up & Installation:
 * Visit the following link: <https://sigtaba.github.io/doctor-search/>
