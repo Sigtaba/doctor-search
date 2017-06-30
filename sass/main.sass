@@ -1,19 +1,23 @@
 body
-  background-image: url('../../img/space.jpg')
+  background-image: url('../../img/spine.jpg')
   background-repeat: no-repeat
   background-size: cover
   font-family: 'Poiret One', cursive
-  color: #E1DECE
+  color: #563A56
 
 form
+  display: flex
+  align-items: center
   input
      color: black
+     width: 300px
+     height: 40px
 
 .container
   display: flex
   flex-direction: column
-  justify-content: center
-  align-items: center
+  justify-content: flex-start
+  align-items: flex-start
   padding-top: 120px
 
 p, li, label
@@ -28,3 +32,25 @@ button
   width: 150px
   height: 40px
   font-size: 25px
+  margin: 20px
+  color: white
+
+#results
+  display: flex
+  flex-wrap: wrap
+
+.doc
+  width: 500px
+  height: 250px
+  overflow: scroll
+  margin: 20px
+  background-color: white
+  border: 2px solid blue
+  padding: 20px
+  position: relative
+  h3
+    font-size: 27px
+    width: 300px
+    position: absolute
+    top: 20px
+    right: 00px
