@@ -4,7 +4,10 @@ body
   background-size: cover
   font-family: 'Poiret One', cursive
   color: #E1DECE
-  overflow: hidden
+
+form
+  input
+     color: black
 
 .container
   display: flex
@@ -19,24 +22,9 @@ p, li, label
 h1
   font-size: 45px
 
-#location
-  display: flex
-  flex-direction: column
-  align-items: center
-
 button
   background-color: #ea6136
   border: none
   width: 150px
   height: 40px
   font-size: 25px
-
-#flyby
-  transform: translateX(1800px)
-  animation: flying 10s linear infinite
-
-@keyframes flying
-  0%
-    transform: translateX(1500px) translateY(-100px) scale(.1) rotateZ(0deg) rotateX(0) rotateY(0)
-  100%
-    transform: translateX(-2000px) translateY(300px) scale(1.5) rotateZ(40deg) rotateX(30deg) rotateY(30deg)
