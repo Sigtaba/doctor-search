@@ -7,8 +7,9 @@ Created on 7.30.2017
 
 ## Screenshots
 
-<h1 align="center"><img src="https://github.com/Sigtaba/doctor-search/blob/master/img/doctor-search-listings.png?raw=true"></h1>
 <h1 align="center"><img src="https://github.com/Sigtaba/doctor-search/blob/master/img/doctor-search-home.png?raw=true"></h1>
+<h1 align="center"><img src="https://github.com/Sigtaba/doctor-search/blob/master/img/doctor-search-listings.png?raw=true"></h1>
+
 
 ## Set Up & Installation:
 * Visit the following link: <https://sigtaba.github.io/doctor-search/> - *CSS Styling is not showing on GH-Pages.
